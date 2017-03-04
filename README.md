@@ -11,7 +11,7 @@
 [![Downloads total](https://updates.messengerfordesktop.com/badge/downloads.svg)](https://updates.messengerfordesktop.com/stats)
 [![Services status](https://img.shields.io/badge/services-status-blue.svg)](https://status.messengerfordesktop.com/)
 -->
-[![Maintained](https://img.shields.io/badge/maintained%3F-no!-red.svg?style=flat)]
+[![Maintained](https://img.shields.io/badge/maintained%3F-no!-red.svg?style=flat)](https://github.com/aluxian/Messenger-for-Desktop/issues/1153#issuecomment-283514347)
 [![Join the chat](https://badges.gitter.im/Join%20Chat.svg)][1]
 
 A simple &amp; beautiful desktop client for [Facebook Messenger](https://www.messenger.com/). Chat without distractions on OS X, Windows and Linux. Not affiliated with Facebook. This is **NOT** an official product.
