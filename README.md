@@ -1,8 +1,8 @@
 # Messenger for Desktop
 
-**After some talking with the original developer, we decided to continue work on the original project for now**
+**After some talking with the original developer, we decided to continue work on the original project for now.**
 
-**[Our domain](https://www.messengerfordesktop.org) will be used as the new official domain serving only clean builds**
+**[Our domain](https://www.messengerfordesktop.org) will be used as the new official domain, serving only clean builds!**
 
 <!--
 [![OS X build](https://travis-ci.org/Aluxian/Messenger-for-Desktop.svg?branch=staging)](https://travis-ci.org/Aluxian/Messenger-for-Desktop)
@@ -11,7 +11,7 @@
 [![Downloads total](https://updates.messengerfordesktop.com/badge/downloads.svg)](https://updates.messengerfordesktop.com/stats)
 [![Services status](https://img.shields.io/badge/services-status-blue.svg)](https://status.messengerfordesktop.com/)
 -->
-[![Zenhub](https://img.shields.io/badge/Shipping_faster_with-ZenHub-5e60ba.svg)](https://zenhub.com)
+[![Maintained](https://img.shields.io/badge/maintained%3F-no!-red.svg?style=flat)]
 [![Join the chat](https://badges.gitter.im/Join%20Chat.svg)][1]
 
 A simple &amp; beautiful desktop client for [Facebook Messenger](https://www.messenger.com/). Chat without distractions on OS X, Windows and Linux. Not affiliated with Facebook. This is **NOT** an official product.
