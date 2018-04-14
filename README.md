@@ -1,8 +1,8 @@
 # Messenger for Desktop
 
-**After some talking with the original developer, we decided to continue work on the original project for now.**
+**This project is now unmaintained, we suggest looking at [Caprine](https://github.com/sindresorhus/caprine)**
 
-**[Our domain](https://www.messengerfordesktop.org) will be used as the new official domain, serving only clean builds!**
+**[Our domain](https://www.messengerfordesktop.org) will redirect to the Caprine!**
 
 <!--
 [![OS X build](https://travis-ci.org/Aluxian/Messenger-for-Desktop.svg?branch=staging)](https://travis-ci.org/Aluxian/Messenger-for-Desktop)
